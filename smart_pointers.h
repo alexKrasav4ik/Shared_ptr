@@ -1,7 +1,3 @@
-#include <bits/stdc++.h>
-
-int cnt = 0;
-
 template<typename T>
 class SharedPtr {
 public:
